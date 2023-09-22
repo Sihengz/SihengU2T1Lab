@@ -10,6 +10,6 @@ public class CatRunner {
 
 
         Cat cat3 = new Cat("Fluffy", 5, 8.5);
-
+        cat3.introduce();
     }
 }
